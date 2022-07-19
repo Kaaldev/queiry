@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SilvenLEAF/YTDownloader.git"
+    "url": "git+https://github.com/kaaldev/queiry.git"
   },
   "keywords": [
-    "YTDownloader",
+    "queiry",
     "Youtube",
     "Downloader"
   ],
-  "author": "SilvenLEAF",
+  "author": "Kaaldev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SilvenLEAF/YTDownloader/issues"
+    "url": "https://github.com/Kaaldev/queiry/issues"
   },
-  "homepage": "https://github.com/SilvenLEAF/YTDownloader#readme",
+  "homepage": "https://github.com/Kaaldev/queiry#readme",
   "dependencies": {
     "chalk": "^4.1.0",
     "express": "^4.17.1",
