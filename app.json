@@ -2,5 +2,5 @@
     "name": "video-dl",
     "description": "Youtube and Facebook Downloader.",
     "repository": "https://github.com/mskian/video-dl",
-    "keywords": ["node", "express", "static"]
+    "keywords": ["node", "express", "static", "ytdl-core", "nodemailer"]
 }
